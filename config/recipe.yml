@@ -29,7 +29,9 @@ modules:
       - gnome-disk-utility
       - steam-devices
       - gcc
+      - VirtualBox
       - kvantum
+      - okular
 
     remove:
       - firefox # default firefox removed in favor of flatpak
@@ -140,6 +142,7 @@ modules:
       - xwaylandvideobridge
       - mozilla-filesystem
       - mozilla-openh264
+      - nvtop
 
 
 
