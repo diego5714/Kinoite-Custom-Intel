@@ -28,6 +28,7 @@ modules:
       - hunspell-es-CL
       - gnome-disk-utility
       - steam-devices
+      - gamescope
       - gcc
       - VirtualBox
       - kvantum
