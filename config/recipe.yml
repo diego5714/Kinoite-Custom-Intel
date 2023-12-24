@@ -142,7 +142,6 @@ modules:
       - default-fonts-other-sans
       - default-fonts-other-serif
       - nvidia-gpu-firmware
-      - amd-ucode-firmware
       - libratbag-ratbagd
       - xwaylandvideobridge
       - mozilla-filesystem
